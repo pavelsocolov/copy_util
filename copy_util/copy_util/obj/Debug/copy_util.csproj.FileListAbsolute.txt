@@ -1,0 +1,9 @@
+Q:\C#\copy_util\copy_util\bin\Debug\copy_util.exe.config
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.csprojResolveAssemblyReference.cache
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.Form1.resources
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.Properties.Resources.resources
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.csproj.GenerateResource.Cache
+Q:\C#\copy_util\copy_util\bin\Debug\copy_util.exe
+Q:\C#\copy_util\copy_util\bin\Debug\copy_util.pdb
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.exe
+Q:\C#\copy_util\copy_util\obj\Debug\copy_util.pdb
